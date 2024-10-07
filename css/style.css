@@ -5,6 +5,10 @@ body {
 .portfolio-item {
     margin-bottom: 30px;
 }
+img {
+    width: 150px;  /* Set the width to 300 pixels */
+    height: auto;  /* Maintain the aspect ratio */
+}
 
 .footer {
     background: #f8f9fa;
